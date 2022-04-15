@@ -59,3 +59,19 @@ body
     text-align: center;
     padding: 0.5em;
 }
+
+.json
+{
+    width: 40%;
+    display: block;
+    align-items: center;
+    margin: 0% auto;
+}
+
+.jsontext
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
